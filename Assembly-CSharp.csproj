@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{32C3BDE6-E125-3128-82C1-25D0441455A3}</ProjectGuid>
+    <ProjectGuid>{499932A1-2A76-0215-F054-20C890F65FC3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\script_Text_sena_1.cs" />
     <Compile Include="Assets\Scripts\Choice_no or yes\choice_yes.cs" />
+    <Compile Include="Assets\Scripts\Status_player.cs" />
+    <Compile Include="Assets\Scripts\Helth Bar\Enemy.cs" />
     <Compile Include="Assets\Scripts\One_tap.cs" />
     <Compile Include="Assets\Scripts\Helth Bar\HealthBar.cs" />
     <Compile Include="Assets\Scripts\Swiching_Background_scripts.cs" />
@@ -68,8 +70,7 @@
     <Compile Include="Assets\Scripts\script_string_Text_1.cs" />
     <Compile Include="Assets\Scripts\scane_workout\script_Text_sena_3.cs" />
     <Compile Include="Assets\Scripts\Helth Bar\HealthText.cs" />
-    <Compile Include="Assets\Scripts\Status_player.cs" />
-    <Compile Include="Assets\Scripts\Helth Bar\Enemy.cs" />
+    <Compile Include="Assets\Test_GitLol.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
