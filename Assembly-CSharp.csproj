@@ -70,7 +70,7 @@
     <Compile Include="Assets\Scripts\script_string_Text_1.cs" />
     <Compile Include="Assets\Scripts\scane_workout\script_Text_sena_3.cs" />
     <Compile Include="Assets\Scripts\Helth Bar\HealthText.cs" />
-    <Compile Include="Assets\Test_GitLol.cs" />
+    <Compile Include="Assets\Read.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
